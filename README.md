@@ -6,7 +6,7 @@ Overview
 This repository contains QA team's internal tests for tempest. 
 To start using it:
 
-git clone https://github.com/midokura/tempest-add
+git clone https://github.com/midonet/tempest-add
 
 cd tempest-add
 
